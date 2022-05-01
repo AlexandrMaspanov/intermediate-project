@@ -1,1 +1,1 @@
-# intermediate-project
+# it-academy-html_css-intermediate-project
